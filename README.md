@@ -87,4 +87,4 @@ Developed by **Venkata Patchigolla**, **Amolak Singh Jhand**, and **Hyeok Jun Le
 
 ## License
 
-MIT License. See the attached LISENSE
+MIT License. See the attached LICENSE
