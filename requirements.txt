@@ -1,0 +1,8 @@
+streamlit
+pandas
+openpyxl
+plotly
+kaleido
+streamlit-sortables
+statsmodels
+scikit-learn
